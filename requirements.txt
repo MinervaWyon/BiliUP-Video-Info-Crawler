@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+requests
+openpyxl
+pandas
+flask
